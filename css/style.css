@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+/*pabulic-----------------------------------------*/
+
+.hv100{
+  height: 100vh;
+}
+
+.hv50{
+  height: 50vh;
+}
+
+.border{
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%,0);
+  width: 500px;
+  object-fit: cover;
+}
+
+.center{
+  position: relative;
+}
+
+.hello{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+width: 500px;
+object-fit: cover;
+}
