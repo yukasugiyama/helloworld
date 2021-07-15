@@ -2,10 +2,13 @@
 
 /*pabulic-----------------------------------------*/
 
+
+body{
+  background-color: rgb(230, 203, 255);
+}
 .hv100{
   height: 100vh;
 }
-
 .border{
   position: fixed;
   top: 0;
